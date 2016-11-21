@@ -1,0 +1,28 @@
+#kinship coefficient config file!
+
+#data file
+_ori_file Example_Data.txt
+
+#result file
+_out_file res.txt
+
+#seed
+_seed 2009
+
+#how many kinship should calculate
+_size 100
+
+#if exclude kinship for relatives(within two generation)
+_ex_relative Yes
+
+#if random sampled(Yes or No)
+_all Yes
+
+#year range
+_year 1900 1945
+
+#if use file to select people
+_id_sel Yes
+
+#file name for inclusion
+_id_file indi_id.txt
